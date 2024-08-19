@@ -36,7 +36,7 @@ Test Loss: 0.045325081795454025
 
 Test Accuracy: 0.9862499833106995
 
-Lastly, I run my model on random images of cat and dog from internet.Below are the results:-
+# Lastly, I run my model on random images of cat and dog from internet.Below are the results:-
 
 1/1 [==============================] - 0s 50ms/step
 
